@@ -1,11 +1,10 @@
-### Hi there. Im Mirhossein 👋🏻
+### Hi there. Im Mirhossein 👋
 
 - 💻 Learning on ImageProcessing and associated with it technologies
 - 🤔 I try to Learn new Things in Different Projects
 - 🎓 Studied at the Immigrant Vocational Technical University
 
-
-###The Competitions I participated in 🛠
+### The Competitions I participated in 🛠
 
 - 🔹 RoboCup IranOpen 2017
 - 🔹 RoboCup IranOpen 2018
