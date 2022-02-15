@@ -15,7 +15,7 @@
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_mirhossein.mousavi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>&emsp;<a href="https://t.me/amm525" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="40" width="40" /></a>&ensp;<a href="https://wa.me/+989211135403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Whatsapp" height="50" width="50" /></a>&ensp;<a href="https://wa.me/+989211135403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40"
+<a href="https://www.instagram.com/_mirhossein.mousavi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>&emsp;<a href="https://t.me/amm525" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="40" width="40" /></a>&emsp;<a href="https://wa.me/+989211135403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40" /></a>
 
 </p>
 
