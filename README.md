@@ -25,6 +25,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhossein-Mousavi&count_private=false&theme=github_dark&hide_border=true&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Mirhossein-Mousavi&count_private=false&show_icons=true&hide_border=true&theme=github_dark">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mirhossein-Mousavi&hide_border=true&theme=react-dark)  
-
 <!--START_SECTION:activity-->
