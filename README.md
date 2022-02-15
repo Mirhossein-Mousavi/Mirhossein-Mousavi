@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools that  I know:</h3>
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> </a>&ensp;<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> </a>&ensp;<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&ensp;<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="html5" width="40" height="40"/> </a>&ensp;<a href="" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhossein-Mousavi&theme=github_dark&count_private=false&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Mirhossein-Mousavi&count_private=false&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirhossein-Mousavi&count_private=false&theme=github_dark&hide_border=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Mirhossein-Mousavi&count_private=false&show_icons=true&hide_border=true&theme=github_dark">
 
 <!--START_SECTION:activity-->
